@@ -1,0 +1,3 @@
+My Code Tutorial
+================
+Run $python hw1_Ishihara_Tomohiko.py in terminal.

@@ -1,0 +1,5 @@
+Auto Generated Code Documentation
+=================================
+.. automodule:: hw1_Ishihara_Tomohiko
+    :members:
+    :undoc-members:
